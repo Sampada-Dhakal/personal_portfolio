@@ -18,11 +18,11 @@ const navbar = () => {
                 <Link to="/About"> About</Link>
             </div>
             <div>
-                <Link to="/Login">
+             
                     <button>
                         <Link to="/login">Login</Link>
                     </button>
-                </Link>
+               
             </div>
 
         </div>
