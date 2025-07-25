@@ -1,0 +1,38 @@
+.navBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(114, 114, 195);
+    padding: 10px 40px;
+    color: white;
+    font-family: sans-serif;
+
+
+}
+
+.navbar-list {
+    display: flex;
+    gap: 15px;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.navbar-list a {
+    text-decoration: none;
+    color: white;
+    display: flex;
+}
+
+.navbar button {
+    border: none;
+    padding: 5px 10px;
+    background: red;
+    color: white;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+.navbar button:hover{
+    background-color: blue;
+}
