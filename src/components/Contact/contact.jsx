@@ -1,6 +1,6 @@
 import React from 'react'
 
-const contact = () => {
+const Contact = () => {
   const isLoggedIn=false;
   if (isLoggedIn) {
     return(
@@ -17,4 +17,4 @@ const contact = () => {
 
 }
 
-export default contact
+export default Contact

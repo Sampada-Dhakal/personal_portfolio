@@ -5,7 +5,7 @@ import Location from './components/location';
 import Contact from './components/Contact/Contact';
 import Navbar from './components/Navbar/Navbar';
 import { Route, Routes } from 'react-router-dom';
-import Project from './components/Project/project';
+import Project from './components/Project/Project';
 import Home from './components/Home/Home';
 import Login from './components/Login/Login';
 import Product from './components/Product/Product';
